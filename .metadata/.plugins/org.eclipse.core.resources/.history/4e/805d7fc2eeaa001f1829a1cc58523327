@@ -1,0 +1,20 @@
+
+public class DataTypes {
+
+	public static void main(String[] args) {
+		 
+		int a;
+		int b=10;
+		double c=100.40;
+		char d='£';
+		boolean e=true;
+		
+		
+		System.out.println("Value od b is "+b);
+		System.out.println("Value od c is "+c);
+		System.out.println("Value od d is "+d);
+		System.out.println("Value od e is "+e);
+
+	}
+
+}
