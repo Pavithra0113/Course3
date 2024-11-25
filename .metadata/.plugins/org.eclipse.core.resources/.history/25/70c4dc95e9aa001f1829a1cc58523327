@@ -1,0 +1,15 @@
+
+public class DataTypes {
+
+	public static void main(String[] args) {
+		 
+		int a;
+		int b=10;
+		double c=100.40;
+		
+		
+		System.out.println("Value od b is "+b);
+
+	}
+
+}

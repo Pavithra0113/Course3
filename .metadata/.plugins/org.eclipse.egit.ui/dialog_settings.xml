@@ -8,6 +8,12 @@
 	<list key="RepositorySelectionPage.UsedUris">
 		<item value="https://github.com/Pavithra085/core_java.git"/>
 	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="pavithra085 &lt;itzmepavithranagesh@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="pavithra085 &lt;itzmepavithranagesh@gmail.com&gt;"/>
+	</list>
 	<section name="GitImportWizard">
 		<section name="GitImportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="219"/>
@@ -23,5 +29,23 @@
 		<item key="DIALOG_WIDTH" value="586"/>
 		<item key="DIALOG_HEIGHT" value="550"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/pavithra/Documents/ course 3/WelcomeApp/.git">
+			<item value="false"/>
+			<item value="pavithra085 &lt;itzmepavithranagesh@gmail.com&gt;"/>
+			<item value="first commit"/>
+			<item value="pavithra085 &lt;itzmepavithranagesh@gmail.com&gt;"/>
+			<item value="fa3b18bf7584267a50c8ae9fd9cbd2a3674752fb"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
 	</section>
 </section>
